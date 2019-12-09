@@ -1,0 +1,21 @@
+.device{
+    display: inline-block;
+    border: 1px solid #B6B5B5;
+    box-sizing: border-box;
+    width: 230px;
+    max-width: 300px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+.name{
+    font-size: 18px;
+    padding: 10px;
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow: ellipsis;
+}
