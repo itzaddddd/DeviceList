@@ -1,1 +1,1 @@
-Create device list of MakerPlayground
+Create a device list of MakerPlayground
